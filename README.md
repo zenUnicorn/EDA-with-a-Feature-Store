@@ -9,6 +9,7 @@ Hopsworks is a data platform for ML with a Python-centric Feature Store and MLOp
 1. [Setup and installation](https://docs.hopsworks.ai/3.2/setup_installation/)
 2. [Tutorials](https://docs.hopsworks.ai/3.2/tutorials/)
 3. [Hopsworks API](https://docs.hopsworks.ai/hopsworks-api/3.2/generated/api/login/)
+4. [Documentation](https://docs.hopsworks.ai/3.2/)
 
 
 

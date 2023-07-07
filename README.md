@@ -18,8 +18,7 @@ To install Hopsworks locally:
 4. [Documentation](https://docs.hopsworks.ai/3.2/)
 
 ## Social links
-[Twitter](https://twitter.com/hopsworks) [Slack](https://bit.ly/publichopsworks)
-
+[Twitter](https://twitter.com/hopsworks) [Slack](https://bit.ly/publichopsworks) [Github](https://github.com/logicalclocks/hopsworks)
 
 
 
